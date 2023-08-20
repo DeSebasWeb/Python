@@ -18,4 +18,4 @@ print(my_new_tupla_update)
 my_new_tupla.copy()
 del my_new_tupla#esto sirve paraborrar completamente la variable que habiamos asignado como tupla
 #print(my_new_tupla)NameError: name 'my_new_tupla' is not defined
-
+my_new_tupla_update_v2 = ()
